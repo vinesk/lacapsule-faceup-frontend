@@ -5,8 +5,9 @@ import { useDispatch } from "react-redux";
 import { addPhoto } from "../reducers/user";
 import FontAwesome from "react-native-vector-icons/FontAwesome";
 import { useIsFocused } from "@react-navigation/native";
+import Constants from "expo-constants";
 
-const BACKEND_ADDRESS = "https://lacapsule-faceup-backend.vercel.app/";
+const BACKEND_ADDRESS = Constants.expoConfig?.extra?.backendUrl;
 
 export default function SnapScreen() {
   const dispatch = useDispatch();

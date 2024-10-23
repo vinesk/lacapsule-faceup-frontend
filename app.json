@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "faceup-part3",
-    "slug": "faceup-part3",
+    "name": "faceup",
+    "slug": "faceup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,11 +13,9 @@
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
-      "url": "https://u.expo.dev/1444e7f4-6668-4ee7-bb81-9c7ba770e818"
+      "url": "https://u.expo.dev/d593138f-c30b-405a-a3b8-ecacfce5fec8"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -30,13 +28,14 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "1444e7f4-6668-4ee7-bb81-9c7ba770e818"
-      }
-    },
     "runtimeVersion": {
       "policy": "appVersion"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d593138f-c30b-405a-a3b8-ecacfce5fec8"
+      }
+    },
+    "owner": "vinesk"
   }
 }
