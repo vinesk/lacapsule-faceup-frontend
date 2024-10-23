@@ -28,14 +28,13 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
     "extra": {
       "eas": {
         "projectId": "d593138f-c30b-405a-a3b8-ecacfce5fec8"
       }
     },
-    "owner": "vinesk"
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
   }
 }
