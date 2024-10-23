@@ -21,7 +21,7 @@
 ## Repositories
 
 - **Frontend**: [lacapsule-faceup-frontend](https://github.com/vinesk/lacapsule-faceup-frontend)
-- **Backend**: [lacapsule-faceup-backend](https://github.com/yourusername/lacapsule-faceup-backend)
+- **Backend**: [lacapsule-faceup-backend](https://github.com/vinesk/lacapsule-faceup-backend)
 
 ## Setup
 
