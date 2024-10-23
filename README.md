@@ -1,4 +1,4 @@
-![Face Up Logo](assets/faceup.png)
+<img src="assets/faceup.png" alt="Face Up Logo" width="350"/>
 
 # Face Up
 
